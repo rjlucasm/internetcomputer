@@ -17,18 +17,10 @@
   align-items: center;
 }
 
-.grid {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  max-width: 800px;
-  margin-top: 2rem;
-}
-
 .footer {
   width: 100%;
-  padding: 10px;
+  height: 100px;
+  border-top: 1px solid #eaeaea;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -36,38 +28,59 @@
 
 .footer a {
   display: flex;
-  margin: 0 5px;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
 }
 
-.header {
-  width: 100%;
-  padding: 10px;
-  display: flex;
-  flex-direction: column;
+.title a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.title a:hover,
+.title a:focus,
+.title a:active {
+  text-decoration: underline;
 }
 
 .title {
+  text-align: center;;
+}
+
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 800px;
+  margin-top: 2rem;
+}
+
+.card {
+  padding: 1rem;
   text-align: center;
+  color: inherit;
+  border: 1px solid #eaeaea;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  width: 45%;
 }
 
-.a {
-  text-decoration: underline;
-  padding: 0.3rem 0;
+.card h4 {
+  margin: 0 0 1rem 0;
 }
 
-@media (max-width: 600px) {
+.card p {
+  margin: 0;
+}
+
+.logo {
+  height: 1em;
+  margin-left: 0.5rem;
+}
+
+@media (max-width: 350px) {
   .grid {
     width: 100%;
+    flex-grow: initial;
   }
-}
-
-.datas{
-  text-align: center;
-  margin: 0 15px;
-}
-
-.responsive {
-  width: 100%;
-  max-width: 500px;
-  height: auto;
 }
