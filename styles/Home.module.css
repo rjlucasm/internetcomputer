@@ -9,12 +9,21 @@
 }
 
 .main {
-  flex: 1;
   padding: 5rem 0;
+  flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin-top: 2rem;
 }
 
 .footer {
@@ -37,6 +46,10 @@
   flex-direction: column;
 }
 
+.title {
+  text-align: center;
+}
+
 .a {
   text-decoration: underline;
   padding: 0.3rem 0;
@@ -45,22 +58,12 @@
 @media (max-width: 600px) {
   .grid {
     width: 100%;
-    flex-direction: column;
   }
 }
 
-.item {
-  display: grid;
-  justify-content: center;
-}
-
 .datas{
-  display: grid;
-  grid-gap: 20px;
-  grid-template-columns: repeat(3, 125px);
-  justify-content: center;
-  align-items: center;
-  padding: 30px;
+  text-align: center;
+  margin: 0 15px;
 }
 
 .responsive {

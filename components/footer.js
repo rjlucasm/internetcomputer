@@ -9,16 +9,20 @@ const Footer = () => (
               <Image src="/dfinity.svg" alt="Dfinity Logo" width={33} height={16} />
             </a>
           </span> 
-        &amp;
+
           <span>
             <a href="https://fleek.co/" target="_blank" rel="noopener noreferrer">
                 <Image src="/fleek.svg" alt="Fleek Logo" width={23} height={32} />
             </a>
           </span> 
-        |
-        <a href="https://www.coingecko.com/en/api" target="_blank" rel="noopener noreferrer">Crypto API Data Provided By Coingecko</a>
 
-      </footer>
+          <span>
+            <a href="https://www.coingecko.com/en/api" target="_blank" rel="noopener noreferrer">
+                <Image src="/coingecko.svg" alt="Coingecko Logo" width={32} height={32} />
+            </a>
+          </span> 
+
+    </footer>
 );
   
 export default Footer;

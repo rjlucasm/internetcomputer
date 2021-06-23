@@ -20,7 +20,7 @@ export default function Home() {
       {/* <Header /> */}
 
       <main className={styles.main}>
-        <h2>Internet Computer Today</h2>
+        <h2 className={styles.title}>Internet Computer Today</h2>
         
         <Image src={logo} alt="icp" width={119} height={58} />
         
@@ -40,22 +40,23 @@ function Icp(){
 
   const { data, error } = useSWR(url, { refreshInterval: 5000 });
 
-  if (error) return <div className={styles.item}>failed to load</div>
-  if (!data) return <div className={styles.item}>loading...</div>
+  if (error) return <div className={styles.grid}>failed to load</div>
+  if (!data) return <div className={styles.grid}>loading...</div>
 
   return (
-    <div className={styles.datas}>
-      <div className={styles.item}>
-        <div className={styles.item}>Price</div><p>${data["internet-computer"].usd}</p>
-      </div> 
-
-      <div className={styles.item}>
-        <div className={styles.item}>Market Cap</div><p>${data["internet-computer"].usd_market_cap.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
-      </div> 
-
-      <div className={styles.item}>
-        <div className={styles.item}>24h Volume</div><p>${data["internet-computer"].usd_24h_vol.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
-      </div> 
+    <div className={styles.grid}>
+      <div className={styles.datas}>
+        <div>Price <p>${data["internet-computer"].usd}</p></div>
+      </div>
+      
+      <div className={styles.datas}>
+        <div>Market Cap <p>${data["internet-computer"].usd_market_cap.toLocaleString('en-US', {maximumFractionDigits:0})}</p></div>
+      </div>
+       
+      <div className={styles.datas}>
+        <div>24h Volume <p>${data["internet-computer"].usd_24h_vol.toLocaleString('en-US', {maximumFractionDigits:0})}</p></div>
+      </div>
     </div>
   )
 }
+
