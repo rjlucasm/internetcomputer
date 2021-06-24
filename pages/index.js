@@ -66,7 +66,7 @@ function Icp(){
        </div>
 
        <div className={styles.card}>
-         <h4>Fully Diluted Market Cap</h4> 
+         <h4>Fully Diluted Valuation</h4> 
          <p>${data[0].fully_diluted_valuation.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
        </div>
      </div>
