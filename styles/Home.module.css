@@ -79,9 +79,17 @@
   margin-left: 0.5rem;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 452px) {
   .grid {
     width: 100%;
     flex-grow: initial;
+  }
+
+  .card h4 {
+    font-size: 12px;
+  }
+
+  .card p {
+    font-size: 15px;  
   }
 }
