@@ -52,12 +52,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: 800px;
+  flex-wrap: wrap;
+  max-width: 500px;
   margin-top: 2rem;
 }
 
 .card {
-  padding: 1rem;
+  padding: 0.5rem;
   text-align: center;
   color: inherit;
   border: 1px solid #eaeaea;
