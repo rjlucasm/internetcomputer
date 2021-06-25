@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import logo from '../public/icp.png'
+import Sites from '../components/sites'
 import useSWR, { SWRConfig } from 'swr'
 
 const fetcher = (...args) => fetch(...args).then(res => res.json());
@@ -23,6 +24,8 @@ export default function Home() {
         <><SWRConfig value = {{ fetcher }}>
           <Icp />
         </SWRConfig></>
+
+        <Sites/>
       </main>
     </div>
   )
@@ -35,8 +38,6 @@ function Icp(){
 
   if (error) return <div className={styles.grid}>failed to load</div>
   if (!data) return <div className={styles.grid}>loading...</div>
-
-  console.log(data, error)
 
   return (
      <div className={styles.grid}>
@@ -70,5 +71,6 @@ function Icp(){
          <p>${data[0].fully_diluted_valuation.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
        </div>
      </div>
+     
   )
 }
