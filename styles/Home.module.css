@@ -84,17 +84,15 @@
     flex-grow: initial;
   }
 
+  .card {
+    width: 50%;
+  }
+
   .card h4 {
     font-size: 12px;
   }
 
   .card p {
     font-size: 15px;  
-  }
-}
-
-@media (max-width: 338px) {
-  .card {
-    width: 50%;
   }
 }
