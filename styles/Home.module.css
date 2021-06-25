@@ -1,6 +1,6 @@
 .container {
-  min-height: 100vh;
-  padding: 0 0.5rem;
+  /* min-height: 100vh; */
+  padding: 0 0.3rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -58,12 +58,11 @@
 }
 
 .card {
-  padding: 0.5rem;
+  padding: 0.3rem;
   text-align: center;
   color: inherit;
   border: 1px solid #eaeaea;
-  transition: color 0.15s ease, border-color 0.15s ease;
-  width: 45%;
+  width: 40%;
 }
 
 .card h4 {
@@ -91,5 +90,11 @@
 
   .card p {
     font-size: 15px;  
+  }
+}
+
+@media (max-width: 338px) {
+  .card {
+    width: 50%;
   }
 }
