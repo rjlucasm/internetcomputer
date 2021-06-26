@@ -3,6 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import logo from '../public/icp.png'
 import Sites from '../components/sites'
+import Footer from '../components/footer'
 import useSWR, { SWRConfig } from 'swr'
 
 const fetcher = (...args) => fetch(...args).then(res => res.json());
@@ -27,6 +28,9 @@ export default function Home() {
 
         <Sites/>
       </main>
+
+      <Footer/>
+
     </div>
   )
 }
@@ -71,6 +75,5 @@ function Icp(){
          <p>${data[0].fully_diluted_valuation.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
        </div>
      </div>
-     
   )
 }
