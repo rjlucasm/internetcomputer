@@ -51,18 +51,13 @@ function Icp(){
        </div>
 
        <div className={styles.card}>
-         <h4>Circulating Supply</h4> 
-         <p>{data[0].circulating_supply.toLocaleString()}</p>
+         <h4>24h Low / High</h4> 
+         <p>${data[0].low_24h} / ${data[0].high_24h}</p>
        </div>
-       
+ 
        <div className={styles.card}>
          <h4>24h Volume</h4> 
          <p>${data[0].total_volume.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
-       </div>
-
-       <div className={styles.card}>
-         <h4>24h Low / High</h4> 
-         <p>${data[0].low_24h} / ${data[0].high_24h}</p>
        </div>
 
        <div className={styles.card}>
@@ -73,6 +68,11 @@ function Icp(){
        <div className={styles.card}>
          <h4>Fully Diluted Valuation</h4> 
          <p>${data[0].fully_diluted_valuation.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
+       </div>
+
+       <div className={styles.card}>
+         <h4>Circulating Supply</h4> 
+         <p>{data[0].circulating_supply.toLocaleString()}</p>
        </div>
      </div>
   )
