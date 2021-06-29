@@ -39,7 +39,7 @@ export default function Home() {
 function Icp(){
   const url = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=internet-computer&order=market_cap_desc&per_page=100&page=1&sparkline=false";
 
-  const { data, error } = useSWR(url, { refreshInterval: 10000 });
+  const { data, error } = useSWR(url, { refreshInterval: 5000 });
 
   if (error) return <div className={styles.grid}>failed to load</div>
   if (!data) return <div className={styles.grid}>loading...</div>
