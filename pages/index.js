@@ -14,7 +14,7 @@ export default function Home() {
       <Head>
       <title>Internet Computer Today</title>
         <meta name="google-site-verification" content="3fDCrJUUQIo7GSYLlE-KnTSiesID0eUY3QJo0tys0wI" />
-        <meta name="description" content="Internet Computer Today" />
+        <meta name="description" content="Internet Computer Today. Dfinity ICP market cap, volume, price..." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
