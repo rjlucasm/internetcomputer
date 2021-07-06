@@ -61,7 +61,7 @@ const Sites = () => (
          <h4>Podcasts</h4> 
          <p><a href="https://www.buzzsprout.com/1790339" target="_blank" rel="noopener noreferrer">The IC Weekly</a></p>
          <p><a href="https://ic3o3-qiaaa-aaaae-qaaia-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Demergence</a></p>
-         <p><a href="https://www.icp.report/videosv" target="_blank" rel="noopener noreferrer">The IC Report</a></p>
+         <p><a href="https://www.icp.report/videos" target="_blank" rel="noopener noreferrer">The IC Report</a></p>
       </div>
 
       <div className={styles.card}>
