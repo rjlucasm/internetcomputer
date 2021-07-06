@@ -51,6 +51,20 @@ const Sites = () => (
       </div>
 
       <div className={styles.card}>
+         <h4>Blogs</h4> 
+         <p><a href="https://cycledao.xyz/blog" target="_blank" rel="noopener noreferrer">Cycle_dao</a></p>
+         <p><a href="https://www.dfinitycommunity.com/" target="_blank" rel="noopener noreferrer">Dfinity Community</a></p>
+         <p><a href="https://dfinityclub.medium.com/" target="_blank" rel="noopener noreferrer">Dfinity Club</a></p>
+      </div>
+
+      <div className={styles.card}>
+         <h4>Podcasts</h4> 
+         <p><a href="https://www.buzzsprout.com/1790339" target="_blank" rel="noopener noreferrer">The IC Weekly</a></p>
+         <p><a href="https://ic3o3-qiaaa-aaaae-qaaia-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Demergence</a></p>
+         <p><a href="https://www.icp.report/videosv" target="_blank" rel="noopener noreferrer">The IC Report</a></p>
+      </div>
+
+      <div className={styles.card}>
          <h4>Games</h4> 
          <p><a href="https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Reversi</a></p>
          <p><a href="https://ez7ch-viaaa-aaaad-qab2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">T-Rex Runner</a></p>
