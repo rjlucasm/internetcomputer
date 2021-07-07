@@ -12,10 +12,19 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-      <title>Internet Computer Today</title>
-        <meta name="google-site-verification" content="3fDCrJUUQIo7GSYLlE-KnTSiesID0eUY3QJo0tys0wI" />
-        <meta name="description" content="Internet Computer Today. Dfinity ICP market cap, volume, price..." />
         <link rel="icon" href="/favicon.ico" />
+        <title>Internet Computer Today</title>
+        <meta name="description" content="Internet Computer Price, Market cap, Volume, Circulating Supply. All about Dfinity ICP." />
+        
+        <meta name='og:type' content='website' />
+        <meta name='og:title' content='Internet Computer Today'/>
+        <meta name='og:description' content='Internet Computer Price, Market cap, Volume, Circulating Supply. All about Dfinity ICP.' />
+
+        <meta name='twitter:card' content='summary' />
+        <meta name='twitter:title' content='Internet Computer Today' />
+        <meta name='twitter:description' content='Internet Computer Price, Market cap, Volume, Circulating Supply. All about Dfinity ICP.' />
+
+        <meta name="google-site-verification" content="3fDCrJUUQIo7GSYLlE-KnTSiesID0eUY3QJo0tys0wI" />
       </Head>
 
       <main className={styles.main}>
