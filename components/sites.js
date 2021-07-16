@@ -12,6 +12,14 @@ const Sites = () => (
        </div>
 
        <div className={styles.card}>
+         <h4>Wallets</h4> 
+         <p><a href="https://nns.ic0.app/" target="_blank" rel="noopener noreferrer">NNS</a></p>
+         <p><a href="https://www.stoicwallet.com/" target="_blank" rel="noopener noreferrer">Stoic</a></p>
+         <p><a href="https://plugwallet.ooo/" target="_blank" rel="noopener noreferrer">Plug</a></p>
+         <p><a href="https://www.earthwallet.io/" target="_blank" rel="noopener noreferrer">Earth</a></p>
+       </div>
+
+       <div className={styles.card}>
          <h4>Explorers</h4> 
          <p><a href="https://ic.rocks/" target="_blank" rel="noopener noreferrer">IC Rocks</a></p>
          <p><a href="https://www.dfinityexplorer.org/#/" target="_blank" rel="noopener noreferrer">Dfinity Explorer</a></p>
@@ -21,7 +29,6 @@ const Sites = () => (
 
        <div className={styles.card}>
          <h4>Services</h4> 
-         <p><a href="https://nns.ic0.app/" target="_blank" rel="noopener noreferrer">NNS</a></p>
          <p><a href="https://identity.ic0.app/" target="_blank" rel="noopener noreferrer">Internet Identity</a></p>
          <p><a href="https://networknervoussystem.com/" target="_blank" rel="noopener noreferrer">Neuron Calculator</a></p>
          <p><a href="https://icp.guide/" target="_blank" rel="noopener noreferrer">ICP Guide</a></p>
