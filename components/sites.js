@@ -30,6 +30,7 @@ const Sites = () => (
        <div className={styles.card}>
          <h4>Services</h4> 
          <p><a href="https://identity.ic0.app/" target="_blank" rel="noopener noreferrer">Internet Identity</a></p>
+         <p><a href="https://faucet.dfinity.org/auth" target="_blank" rel="noopener noreferrer">Cycles Faucet</a></p>
          <p><a href="https://networknervoussystem.com/" target="_blank" rel="noopener noreferrer">Neuron Calculator</a></p>
          <p><a href="https://icp.guide/" target="_blank" rel="noopener noreferrer">ICP Guide</a></p>
          <p><a href="https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Canlista</a></p>
@@ -55,6 +56,7 @@ const Sites = () => (
          <h4>Dapps</h4> 
          <p><a href="https://dscvr.one/" target="_blank" rel="noopener noreferrer">Dscvr</a></p>
          <p><a href="https://oc.app/" target="_blank" rel="noopener noreferrer">Open Chat</a></p>
+         <p><a href="https://distrikt.app/" target="_blank" rel="noopener noreferrer">Distrikt</a></p>
       </div>
 
       <div className={styles.card}>
