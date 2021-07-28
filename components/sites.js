@@ -29,18 +29,20 @@ const Sites = () => (
 
        <div className={styles.card}>
          <h4>Services</h4> 
-         <p><a href="https://identity.ic0.app/" target="_blank" rel="noopener noreferrer">Internet Identity</a></p>
          <p><a href="https://faucet.dfinity.org/auth" target="_blank" rel="noopener noreferrer">Cycles Faucet</a></p>
+         <p><a href="https://identity.ic0.app/" target="_blank" rel="noopener noreferrer">Internet Identity</a></p>
+         <p><a href="https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Motoko Playground</a></p>
          <p><a href="https://networknervoussystem.com/" target="_blank" rel="noopener noreferrer">Neuron Calculator</a></p>
          <p><a href="https://icp.guide/" target="_blank" rel="noopener noreferrer">ICP Guide</a></p>
          <p><a href="https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Canlista</a></p>
-      </div>
+       </div>
 
        <div className={styles.card}>
          <h4>Community</h4> 
          <p><a href="https://twitter.com/dfinity" target="_blank" rel="noopener noreferrer">Twitter</a></p>
          <p><a href="https://www.reddit.com/r/dfinity/" target="_blank" rel="noopener noreferrer">Reddit</a></p>
          <p><a href="https://t.me/dfinity/" target="_blank" rel="noopener noreferrer">Telegram</a></p>
+         <p><a href="https://www.facebook.com/dfinity.org" target="_blank" rel="noopener noreferrer">Facebook</a></p>
          <p><a href="https://www.youtube.com/dfinity" target="_blank" rel="noopener noreferrer">Youtube</a></p>
          <p><a href="https://forum.dfinity.org/" target="_blank" rel="noopener noreferrer">Forum</a></p>
        </div>
@@ -49,7 +51,7 @@ const Sites = () => (
          <h4>Source Code</h4> 
          <p><a href="https://github.com/dfinity" target="_blank" rel="noopener noreferrer">Github</a></p>
        </div>
-     </div>
+    </div>
 
     <div className={styles.grid}>
       <div className={styles.card}>
@@ -78,8 +80,10 @@ const Sites = () => (
          <h4>Games</h4> 
          <p><a href="https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Reversi</a></p>
          <p><a href="https://ez7ch-viaaa-aaaad-qab2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">T-Rex Runner</a></p>
-         <p><a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a></p>
          <p><a href="https://bgvbu-biaaa-aaaae-aaava-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Netwalk</a></p>
+         <p><a href="https://omro3-5yaaa-aaaad-qalta-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sudoku</a></p>
+         <p><a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a></p>
+         <p><a href="https://riseofthemagni.com/" target="_blank" rel="noopener noreferrer">ROTM</a></p>
       </div>
     </div>
   </>
