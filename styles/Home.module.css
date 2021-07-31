@@ -79,6 +79,22 @@
   margin-left: 0.5rem;
 }
 
+.gamegrid {
+  margin-top: 2rem;
+}
+
+.gcard {
+  padding: 0.5rem 0.3rem;
+  text-align: left;
+  color: inherit;
+  border: 1px solid #eaeaea;
+  /* width: 40%; */
+}
+
+.gcard a {
+  font-weight: bold;
+}
+
 /* @media (max-width: 452px) {
   .grid {
     width: 100%;

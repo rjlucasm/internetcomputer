@@ -1,4 +1,5 @@
 import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 
 const Sites = () => (
   <>
@@ -77,7 +78,7 @@ const Sites = () => (
       </div>
 
       <div className={styles.card}>
-         <h4>Games</h4> 
+         <Link href="/games"><a><h4>Games</h4></a></Link> 
          <p><a href="https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Reversi</a></p>
          <p><a href="https://ez7ch-viaaa-aaaad-qab2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">T-Rex Runner</a></p>
          <p><a href="https://bgvbu-biaaa-aaaae-aaava-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Netwalk</a></p>
