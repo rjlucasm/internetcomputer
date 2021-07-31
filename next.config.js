@@ -11,7 +11,8 @@ module.exports = {
   //     '/': { page: '/' }
   //   };
   // }
-
+  
+  trailingSlash: true,
   exportPathMap: async function () {
     return {
       '/': { page: '/' },
