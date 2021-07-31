@@ -11,4 +11,11 @@ module.exports = {
   //     '/': { page: '/' }
   //   };
   // }
+
+  exportPathMap: async function () {
+    return {
+      '/': { page: '/' },
+      '/games': { page: '/games' },
+    }
+  },
 }
