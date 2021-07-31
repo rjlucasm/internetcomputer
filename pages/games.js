@@ -14,14 +14,8 @@ export default function Games() {
         
         <main className={styles.main}>
             <h2 className={styles.title}>Internet Computer Games</h2>
-            <Image src={logo} alt="icp" width={119} height={58} />
 
-            {/* <div>
-                <Link href="/">
-                    <a>Home</a>
-                </Link>
-            </div> */}
-
+            <Link href="/"><a>Home</a></Link>
 
             <div className={styles.gamegrid}>
             <div className={styles.gcard}>
