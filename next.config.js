@@ -13,10 +13,10 @@ module.exports = {
   // }
   
   trailingSlash: true,
-  exportPathMap: async function () {
-    return {
-      '/': { page: '/' },
-      '/games': { page: '/games' },
-    }
-  },
+  // exportPathMap: async function () {
+  //   return {
+  //     '/': { page: '/' },
+  //     '/games': { page: '/games' },
+  //   }
+  // },
 }
