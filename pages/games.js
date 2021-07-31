@@ -14,7 +14,7 @@ export default function Games() {
         
         <main className={styles.main}>
             <h2 className={styles.title}>Internet Computer Games</h2>
-            <div><Link href="/"><a><Image src={logo} alt="icp" width={119} height={58} /></a></Link></div>
+            <Image src={logo} alt="icp" width={119} height={58} />
 
             {/* <div>
                 <Link href="/">
