@@ -1,14 +1,14 @@
 module.exports = {
-  // reactStrictMode: true,
+  reactStrictMode: true,
   images: {
     loader: 'imgix',
     path: "",
   },
   
-  trailingSlash: true,
-  exportPathMap: function() {
-    return {
-      '/': { page: '/' }
-    };
-  }
+  // trailingSlash: true,
+  // exportPathMap: function() {
+  //   return {
+  //     '/': { page: '/' }
+  //   };
+  // }
 }
