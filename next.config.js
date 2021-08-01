@@ -5,13 +5,6 @@ module.exports = {
     path: "",
   },
   
-  // trailingSlash: true,
-  // exportPathMap: function() {
-  //   return {
-  //     '/': { page: '/' }
-  //   };
-  // }
-  
   trailingSlash: true,
   // exportPathMap: async function () {
   //   return {

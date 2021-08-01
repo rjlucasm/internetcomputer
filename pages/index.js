@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import logo from '../public/icp.png'
 import Sites from '../components/sites'
 import Footer from '../components/footer'
 import useSWR, { SWRConfig } from 'swr'
@@ -30,7 +29,7 @@ export default function Home() {
       <main className={styles.main}>
         <h2 className={styles.title}>Internet Computer Today</h2>
 
-        <Image src={logo} alt="icp" width={119} height={58} />
+        <Image src="/icp.png" alt="icp" width={119} height={58} />
 
         <><SWRConfig value = {{ fetcher }}>
           <Icp />

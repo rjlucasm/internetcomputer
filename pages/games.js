@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import logo from '../public/icp.png'
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 import Footer from '../components/footer'
@@ -15,7 +14,11 @@ export default function Games() {
         <main className={styles.main}>
             <h2 className={styles.title}>Internet Computer Games</h2>
 
-            <Link href="/"><a>Home</a></Link>
+            <Link href="/"><a><Image src="/icp.png" alt="icp" width={119} height={58} /></a></Link>
+
+            <>&#127918;</>
+
+            {/* <Link href="/"><a>Home</a></Link> */}
 
             <div className={styles.gamegrid}>
             <div className={styles.gcard}>
