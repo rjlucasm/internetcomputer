@@ -2,7 +2,7 @@ module.exports = {
   reactStrictMode: true,
   images: {
     loader: 'imgix',
-    path: "https://internetcomputer.today/icp.png",
+    path: "",
   },
   
   trailingSlash: true,
