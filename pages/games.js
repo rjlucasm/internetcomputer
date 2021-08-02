@@ -25,7 +25,7 @@ export default function Games() {
                 <a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a> - Sliding addition game
             </div>
             <div className={styles.gcard}>
-                <a href="https://hwma2-hyaaa-aaaah-aaixa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Block Paper Scissors!</a> - A blockchain powered roshambo experience
+                <a href="https://hwma2-hyaaa-aaaah-aaixa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Block, Paper, Scissors!</a> - A blockchain powered roshambo experience
             </div>
             <div className={styles.gcard}>
                 <a href="https://fcsfo-cyaaa-aaaah-aaiza-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Clandestine</a> - Gaming hub
