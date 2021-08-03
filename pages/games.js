@@ -31,6 +31,9 @@ export default function Games() {
                 <a href="https://fcsfo-cyaaa-aaaah-aaiza-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Clandestine</a> - Gaming hub
             </div>
             <div className={styles.gcard}>
+                <a href="https://2ji5m-raaaa-aaaah-aanoa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Coinflip</a> - Guess the coin toss
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://cycles.bet/" target="_blank" rel="noopener noreferrer">Cycles Bet</a> - Bet cycles play dices
             </div>
             <div className={styles.gcard}>
