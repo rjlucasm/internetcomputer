@@ -25,6 +25,9 @@ export default function Games() {
                 <a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a> - Sliding addition game
             </div>
             <div className={styles.gcard}>
+                <a href="https://5pppv-eyaaa-aaaah-aan6q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Battle City</a> - Enjoy the classic battle tank game by Namco
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://hwma2-hyaaa-aaaah-aaixa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Block, Paper, Scissors!</a> - A blockchain powered roshambo experience
             </div>
             <div className={styles.gcard}>
@@ -41,6 +44,9 @@ export default function Games() {
             </div>
             <div className={styles.gcard}>
                 <a href="https://zxkrk-xyaaa-aaaad-qad5q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Fudbuster</a> - Platform game created using Unity’s game engine
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">HexGL</a> - A futuristic, fast-paced racing game built by BKcore
             </div>
             <div className={styles.gcard}>
                 <a href="https://makqn-piaaa-aaaah-qadvq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Mareo</a> - Clone of the classic Mario platformer
@@ -84,7 +90,6 @@ export default function Games() {
             <div className={styles.gcard}>
                 <a href="https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Welcome into the Metaverse!</a> - Explore the Internet Computer and its community
             </div>
-            
             </div>
         </main>
 
