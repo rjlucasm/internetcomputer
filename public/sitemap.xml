@@ -22,4 +22,14 @@
 
    </url>
 
+   <url>
+
+      <loc>http://www.internetcomputer.today/services/</loc>
+
+      <changefreq>daily</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
 </urlset> 
