@@ -60,9 +60,9 @@ export default function Games() {
             <div className={styles.gcard}>
                 <a href="https://y5ftq-viaaa-aaaad-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Pacman</a> - HTML5 Pacman
             </div>
-            <div className={styles.gcard}>
+            {/* <div className={styles.gcard}>
                 <a href="https://ouuvz-kiaaa-aaaah-qad3q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Plants vs. Zombies</a> - Classic strategy game ported to IC
-            </div>
+            </div> */}
             <div className={styles.gcard}>
                 <a href="https://riseofthemagni.com/" target="_blank" rel="noopener noreferrer">Rise of the Magni</a> - Tactical unit deployment game
             </div>
