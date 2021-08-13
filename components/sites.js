@@ -87,6 +87,12 @@ const Sites = () => (
          <p><a href="https://riseofthemagni.com/" target="_blank" rel="noopener noreferrer">ROTM</a></p>
          <p><a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a></p>
       </div>
+
+      <div className={styles.card}>
+         <h4>NFT</h4> 
+         <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer"></a>Entrepot</p>
+         <p><a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a></p>
+      </div>
     </div>
   </>
 );
