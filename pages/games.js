@@ -88,6 +88,9 @@ export default function Games() {
                 <a href="https://o2wyr-ryaaa-aaaah-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Tetris</a> - Play the classic Tetris game on Internet Computer
             </div>
             <div className={styles.gcard}>
+                <a href="https://qwbig-wiaaa-aaaad-qaobq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">The Angler</a> - Fish hunting game
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Welcome into the Metaverse!</a> - Explore the Internet Computer and its community
             </div>
             </div>
