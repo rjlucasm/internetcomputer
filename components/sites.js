@@ -54,7 +54,7 @@ const Sites = () => (
        </div>
     </div>
 
-    <div className={styles.grid}>
+    <div className={styles.sitegrid}>
       <div className={styles.card}>
          <h4>Dapps</h4> 
          <p><a href="https://dscvr.one/" target="_blank" rel="noopener noreferrer">Dscvr</a></p>

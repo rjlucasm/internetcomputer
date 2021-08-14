@@ -95,6 +95,14 @@
   font-weight: bold;
 }
 
+.sitegrid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
 /* @media (max-width: 452px) {
   .grid {
     width: 100%;
