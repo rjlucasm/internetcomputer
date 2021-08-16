@@ -61,7 +61,7 @@ export default function Games() {
                 <a href="https://y5ftq-viaaa-aaaad-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Pacman</a> - HTML5 Pacman
             </div>
             <div className={styles.gcard}>
-                <a href="https://y5ftq-viaaa-aaaad-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Poker</a> - Texas hold Em on Internet Computer
+                <a href="https://lm5fh-ayaaa-aaaah-aafua-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Poker</a> - Texas hold Em on Internet Computer
             </div>
             {/* <div className={styles.gcard}>
                 <a href="https://ouuvz-kiaaa-aaaah-qad3q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Plants vs. Zombies</a> - Classic strategy game ported to IC
