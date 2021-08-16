@@ -60,6 +60,9 @@ export default function Games() {
             <div className={styles.gcard}>
                 <a href="https://y5ftq-viaaa-aaaad-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Pacman</a> - HTML5 Pacman
             </div>
+            <div className={styles.gcard}>
+                <a href="https://y5ftq-viaaa-aaaad-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Poker</a> - Texas hold 'em on Internet Computer
+            </div>
             {/* <div className={styles.gcard}>
                 <a href="https://ouuvz-kiaaa-aaaah-qad3q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Plants vs. Zombies</a> - Classic strategy game ported to IC
             </div> */}
@@ -76,7 +79,13 @@ export default function Games() {
                 <a href="https://l2jyf-nqaaa-aaaah-qadha-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Saga Tarot - Hackathon Edition</a> - Claim a digital tarot deck
             </div>
             <div className={styles.gcard}>
-                <a href="https://omro3-5yaaa-aaaad-qalta-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sodoku</a> - A Sudoku web app
+                <a href="https://roi5f-yiaaa-aaaad-qaofq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sportfi Rescue</a> - Puzzle game
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://sf6lg-6qaaa-aaaad-qaopa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sportfi RUSH</a> - Arcade racing game
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://omro3-5yaaa-aaaad-qalta-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sudoku</a> - A Sudoku web app
             </div>
             <div className={styles.gcard}>
                 <a href="https://dqnbo-kiaaa-aaaad-qak2a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Super ICP Party</a> - Multiplayer game made with Unity
