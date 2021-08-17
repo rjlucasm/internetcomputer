@@ -66,7 +66,7 @@ const Sites = () => (
          <h4>Blogs</h4> 
          <p><a href="https://cycledao.xyz/blog" target="_blank" rel="noopener noreferrer">Cycle_dao</a></p>
          <p><a href="https://www.dfinitycommunity.com/" target="_blank" rel="noopener noreferrer">Dfinity Community</a></p>
-         <p><a href="https://icpmaximalist.medium.com/" target="_blank" rel="noopener noreferrer">The ICP maximalist</a></p>
+         <p><a href="https://www.ic.community/" target="_blank" rel="noopener noreferrer">IC Community</a></p>
          <p><a href="https://dfinityclub.medium.com/" target="_blank" rel="noopener noreferrer">Dfinity Club</a></p>
          <p><a href="https://medium.com/icp-league" target="_blank" rel="noopener noreferrer">ICP League</a></p>
       </div>
