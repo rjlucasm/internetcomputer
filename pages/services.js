@@ -40,6 +40,9 @@ export default function Services() {
                 <a href="https://xe5ii-jiaaa-aaaaf-qaaya-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Picture Thing</a> - Upload and Share Images on the IC
             </div>
             <div className={styles.gcard}>
+                <a href="https://icp123.org/" target="_blank" rel="noopener noreferrer">ICP123</a> - Ecosystem page built on the Internet Computer
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://icp.guide/" target="_blank" rel="noopener noreferrer">ICP Guide</a> - The definitive guide to the Internet Computer Protocol (ICP)
             </div>
             <div className={styles.gcard}>
