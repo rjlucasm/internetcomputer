@@ -31,13 +31,13 @@ export default function Services() {
                 <a href="https://dank.ooo/" target="_blank" rel="noopener noreferrer">Dank</a> - Dank is a collection of Open Internet Services on the Internet Computer
             </div>
             <div className={styles.gcard}>
-                <a href="https://dfinityapps.co/" target="_blank" rel="noopener noreferrer">Dfinity Apps</a> - A list of apps powered by Internet Computer
-            </div>
-            <div className={styles.gcard}>
                 <a href="https://fleek.co/" target="_blank" rel="noopener noreferrer">Fleek</a> - Decentralized web-hosting to the Internet Computer
             </div>
             <div className={styles.gcard}>
                 <a href="https://xe5ii-jiaaa-aaaaf-qaaya-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Picture Thing</a> - Upload and Share Images on the IC
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://dfinityapps.co/" target="_blank" rel="noopener noreferrer">icApps</a> - A list of apps powered by Internet Computer
             </div>
             <div className={styles.gcard}>
                 <a href="https://icp123.org/" target="_blank" rel="noopener noreferrer">ICP123</a> - Ecosystem page built on the Internet Computer
