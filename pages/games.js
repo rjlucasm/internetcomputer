@@ -73,10 +73,7 @@ export default function Games() {
                 <a href="https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Reversi</a> - Multiplayer game on Internet Computer
             </div>
             <div className={styles.gcard}>
-                <a href="https://5nl7c-zqaaa-aaaah-qaa7a-cai.raw.ic0.app/draw-selection" target="_blank" rel="noopener noreferrer">Saga Tarot</a> - Saga Tarot gives you a tarot reading in one click
-            </div>
-            <div className={styles.gcard}>
-                <a href="https://l2jyf-nqaaa-aaaah-qadha-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Saga Tarot - Hackathon Edition</a> - Claim a digital tarot deck
+                <a href="https://l2jyf-nqaaa-aaaah-qadha-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Saga Tarot</a> - Saga Tarot gives you a tarot reading in one click
             </div>
             <div className={styles.gcard}>
                 <a href="https://roi5f-yiaaa-aaaad-qaofq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sportfi Rescue</a> - Puzzle game
