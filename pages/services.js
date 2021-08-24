@@ -31,6 +31,9 @@ export default function Services() {
                 <a href="https://dank.ooo/" target="_blank" rel="noopener noreferrer">Dank</a> - Dank is a collection of Open Internet Services on the Internet Computer
             </div>
             <div className={styles.gcard}>
+                <a href="https://k6exx-uqaaa-aaaah-qadba-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">EXT Token Tool</a> - Create your own Tokens
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://fleek.co/" target="_blank" rel="noopener noreferrer">Fleek</a> - Decentralized web-hosting to the Internet Computer
             </div>
             <div className={styles.gcard}>
