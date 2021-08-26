@@ -93,11 +93,12 @@ const Sites = () => (
          <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
          <p><a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a></p>
       </div>
-
-      <div className={styles.gcard}>
-         <Link href="/watchlist"><a>Watchlist</a></Link> 
-      </div>
     </div>
+    
+    <div className={styles.gcard}>
+      <Link href="/watchlist"><a>Watchlist</a></Link> 
+    </div>
+    
   </>
 );
   
