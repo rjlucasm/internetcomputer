@@ -28,6 +28,12 @@ export default function Watchlist() {
                 <a href="https://bv7wf-6qaaa-aaaai-qahbq-cai.raw.ic0.app/sign-up" target="_blank" rel="noopener noreferrer">CanCan</a> - A scalable video sharing service
             </div>
             <div className={styles.gcard}>
+                <a href="https://canistore.io/" target="_blank" rel="noopener noreferrer">Canistore</a> - Next-gen social store powered by DFINITY
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://capsule.social/" target="_blank" rel="noopener noreferrer">Capsule Social</a> - Decentralized social media
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://www.civol.co/" target="_blank" rel="noopener noreferrer">Civol</a> - Asynchronous video conversation platform enabling decentralized discourse, debate, and collective decision-making
             </div>
             <div className={styles.gcard}>
@@ -71,7 +77,10 @@ export default function Watchlist() {
             </div>
             <div className={styles.gcard}>
                 <a href="https://voicemarkr.com/shell/map" target="_blank" rel="noopener noreferrer">VoiceMarkr</a> - P2P voice on the Internet Computer
-            </div> 
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://www.weact.chat/" target="_blank" rel="noopener noreferrer">WeAct</a> - All in one collaboration app designed by activists for activists
+            </div>
             </div>
         </main>
 
