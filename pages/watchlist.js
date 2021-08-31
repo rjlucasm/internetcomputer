@@ -55,9 +55,6 @@ export default function Watchlist() {
                 <a href="https://dfinance.ai/" target="_blank" rel="noopener noreferrer">DFinance</a> - Foundational DeFi components for the Internet Computer
             </div>
             <div className={styles.gcard}>
-                <a href="https://rglue-kyaaa-aaaah-qakca-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Drive</a> - Decentralized file storage and sharing
-            </div>
-            <div className={styles.gcard}>
                 <a href="https://sygsn-caaaa-aaaaf-qaahq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICME</a> - A no-code website builder
             </div>
             <div className={styles.gcard}>
