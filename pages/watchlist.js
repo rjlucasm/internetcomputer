@@ -64,9 +64,6 @@ export default function Watchlist() {
                 <a href="https://xh4sm-oyaaa-aaaai-qaiva-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICPlaces</a> - Virtual reality prototype
             </div>
             <div className={styles.gcard}>
-                <a href="https://icpunks.com/" target="_blank" rel="noopener noreferrer">ICPunks</a> - CryptoPunks clone on the Internet Computer
-            </div>
-            <div className={styles.gcard}>
                 <a href="https://modclub.app/" target="_blank" rel="noopener noreferrer">ModClub</a> - Decentralized user generated content moderation service, to integrate with existing Internet Computer dapps
             </div>
             <div className={styles.gcard}>
