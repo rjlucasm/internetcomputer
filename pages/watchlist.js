@@ -61,6 +61,9 @@ export default function Watchlist() {
                 <a href="https://sygsn-caaaa-aaaaf-qaahq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICME</a> - A no-code website builder
             </div>
             <div className={styles.gcard}>
+                <a href="https://2fpku-eiaaa-aaaad-qaq4a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICNS</a> - A naming service for the Internet Computer, built on top of ENS (Ethereum Name Service)
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://xh4sm-oyaaa-aaaai-qaiva-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICPlaces</a> - Virtual reality prototype
             </div>
             <div className={styles.gcard}>
