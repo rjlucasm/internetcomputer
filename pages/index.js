@@ -27,6 +27,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <div className={styles.highlights}>
+          <a href="https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/post/139111/dscvr-hackathon-season-2-the-integrated-game" target="_blank" rel="noopener noreferrer">DSCVR Hackathon Season 2! $45k USD Equivalent Prize Pool!</a>
+        </div>
+        
         <h2 className={styles.title}>Internet Computer Today</h2>
 
         <Image src="/icp.png" alt="icp" width={119} height={58} />
