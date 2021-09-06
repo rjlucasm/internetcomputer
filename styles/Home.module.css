@@ -24,7 +24,6 @@
   justify-content: center;
   align-items: center;
   margin-top: 2rem;
-  color: inherit;
 }
 
 .footer a {
@@ -33,6 +32,7 @@
   align-items: center;
   flex-grow: 1;
   padding: 5px;
+  color: inherit;
 }
 
 .title a {
