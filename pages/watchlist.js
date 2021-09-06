@@ -15,7 +15,7 @@ export default function Watchlist() {
 
             <>&#128064;</>
 
-            <Link href="/"><a>Home</a></Link> 
+            <Link href="/"><a style="color:inherit;">Home</a></Link> 
 
             <div className={styles.gamegrid}>
             <div className={styles.gcard}>
