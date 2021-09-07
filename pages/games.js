@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 import Footer from '../components/footer'
@@ -14,8 +13,6 @@ export default function Games() {
         <main className={styles.main}>
             <h2 className={styles.title}>Internet Computer Games</h2>
 
-            {/* <Link href="/"><a><Image src="/icp.png" alt="icp" width={119} height={58} /></a></Link> */}
-
             <>&#127918;</>
 
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
@@ -29,6 +26,9 @@ export default function Games() {
             </div>
             <div className={styles.gcard}>
                 <a href="https://hwma2-hyaaa-aaaah-aaixa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Block, Paper, Scissors!</a> - A blockchain powered roshambo experience
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://xqqo5-fqaaa-aaaad-qaruq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Chess</a> - 3d chess game on Internet Computer
             </div>
             <div className={styles.gcard}>
                 <a href="https://fcsfo-cyaaa-aaaah-aaiza-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Clandestine</a> - Gaming hub
@@ -64,7 +64,7 @@ export default function Games() {
                 <a href="https://y5ftq-viaaa-aaaad-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Pacman</a> - HTML5 Pacman
             </div>
             <div className={styles.gcard}>
-                <a href="https://lm5fh-ayaaa-aaaah-aafua-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Poker</a> - Texas hold Em on Internet Computer
+                <a href="https://lm5fh-ayaaa-aaaah-aafua-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Poker</a> - Texas holdEm on Internet Computer
             </div>
             {/* <div className={styles.gcard}>
                 <a href="https://ouuvz-kiaaa-aaaah-qad3q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Plants vs. Zombies</a> - Classic strategy game ported to IC
