@@ -80,6 +80,13 @@ const Sites = () => (
       </div>
 
       <div className={styles.card}>
+         <h4>NFT</h4> 
+         <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
+         <p><a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a></p>
+         <p><a href="https://icpunks.com/" target="_blank" rel="noopener noreferrer">ICPunks</a></p>
+      </div>
+
+      <div className={styles.card}>
          <Link href="/games"><a><h4>Games</h4></a></Link>
          <p><a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a></p>
          <p><a href="https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">HexGL</a></p>
@@ -87,13 +94,6 @@ const Sites = () => (
          <p><a href="https://riseofthemagni.com/" target="_blank" rel="noopener noreferrer">ROTM</a></p>
          <p><a href="https://omro3-5yaaa-aaaad-qalta-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sudoku</a></p>
          <p><a href="https://o2wyr-ryaaa-aaaah-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Tetris</a></p>    
-      </div>
-
-      <div className={styles.card}>
-         <h4>NFT</h4> 
-         <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
-         <p><a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a></p>
-         <p><a href="https://icpunks.com/" target="_blank" rel="noopener noreferrer">ICPunks</a></p>
       </div>
     </div>
     
