@@ -84,6 +84,7 @@ const Sites = () => (
          <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
          <p><a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a></p>
          <p><a href="https://icpunks.com/" target="_blank" rel="noopener noreferrer">ICPunks</a></p>
+         <p><a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a></p>
       </div>
 
       <div className={styles.card}>
