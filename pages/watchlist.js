@@ -67,6 +67,15 @@ export default function Watchlist() {
                 <a href="https://xh4sm-oyaaa-aaaai-qaiva-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICPlaces</a> - Virtual reality prototype
             </div>
             <div className={styles.gcard}>
+                <a href="https://www.icpmeet.com/" target="_blank" rel="noopener noreferrer">ICPmeet</a> - A Tinder on Internet Computer
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://icpuppies.io/" target="_blank" rel="noopener noreferrer">ICPuppies</a> - The first animal NFT collection deployed on the Internet Computer
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://www.icproject.org/" target="_blank" rel="noopener noreferrer">Infinite Charity Project</a> - A nonprofit charitable org conducting $ICP NFT fundraisers to benefit 501(c)3 charities
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://modclub.app/" target="_blank" rel="noopener noreferrer">ModClub</a> - Decentralized user generated content moderation service, to integrate with existing Internet Computer dapps
             </div>
             <div className={styles.gcard}>
@@ -80,6 +89,9 @@ export default function Watchlist() {
             </div>
             <div className={styles.gcard}>
                 <a href="https://ja7sy-daaaa-aaaai-qaguq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Portal</a> - Decentralized live streaming service
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://theswordnft.com/" target="_blank" rel="noopener noreferrer">The Sword</a> - 10K Unique Ninjas NFTs
             </div>
             <div className={styles.gcard}>
                 <a href="https://voicemarkr.com/shell/map" target="_blank" rel="noopener noreferrer">VoiceMarkr</a> - P2P voice on the Internet Computer
