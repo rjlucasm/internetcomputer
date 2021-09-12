@@ -88,6 +88,9 @@ export default function Watchlist() {
                 <a href="https://fxnaj-yaaaa-aaaaf-qad3q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Nuance</a> - Decentralized blogging platform
             </div>
             <div className={styles.gcard}>
+                <a href="https://overchute.com/" target="_blank" rel="noopener noreferrer">Overchute</a> - Decentralized smart-contract application for crowdfunding the release of intellectual property 
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://ja7sy-daaaa-aaaai-qaguq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Portal</a> - Decentralized live streaming service
             </div>
             <div className={styles.gcard}>
