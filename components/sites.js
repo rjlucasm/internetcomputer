@@ -80,11 +80,12 @@ const Sites = () => (
       </div>
 
       <div className={styles.card}>
-         <h4>NFT</h4> 
+         <h4>NFT</h4>
+         <p><a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a></p>
          <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
          <p><a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a></p>
          <p><a href="https://icpunks.com/" target="_blank" rel="noopener noreferrer">ICPunks</a></p>
-         <p><a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a></p>
+         <p><a href="https://dvr6e-lqaaa-aaaai-qam5a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Drip</a></p>
       </div>
 
       <div className={styles.card}>
