@@ -49,6 +49,9 @@ export default function Watchlist() {
                 <a href="https://deckdeckgo.com/en/" target="_blank" rel="noopener noreferrer">DeckDeckGo</a> - Presentations on the Internet Computer
             </div>
             <div className={styles.gcard}>
+                <a href="https://jbioa-siaaa-aaaai-qanfq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">DeFind</a> - A staking-based search engine
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://deland.one/" target="_blank" rel="noopener noreferrer">Deland</a> - Fungible Token Standard and DeFi components
             </div>
             <div className={styles.gcard}>
@@ -56,6 +59,12 @@ export default function Watchlist() {
             </div>
             <div className={styles.gcard}>
                 <a href="https://getimpactnow.org/" target="_blank" rel="noopener noreferrer">Get Impact Now</a> - Digital platform that enables responsible citizens to be a part of the decision-making process
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://kdc2c-uaaaa-aaaae-qaafq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Go</a> - Go links for the Internet Computer
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://jbxh5-eqaaa-aaaae-qaaoq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Notary</a> - Notarized data on the Internet Computer
             </div>
             <div className={styles.gcard}>
                 <a href="https://sygsn-caaaa-aaaaf-qaahq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICME</a> - A no-code website builder
