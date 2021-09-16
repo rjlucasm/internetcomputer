@@ -61,6 +61,9 @@ export default function Watchlist() {
                 <a href="https://getimpactnow.org/" target="_blank" rel="noopener noreferrer">Get Impact Now</a> - Digital platform that enables responsible citizens to be a part of the decision-making process
             </div>
             <div className={styles.gcard}>
+                <a href="https://zfjzz-4aaaa-aaaah-aasbq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Gallery</a> - A creative metaverse to gather all NFT enthusiasts and enjoy arts on the Internet Computer
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://kdc2c-uaaaa-aaaae-qaafq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Go</a> - Go links for the Internet Computer
             </div>
             <div className={styles.gcard}>
