@@ -43,7 +43,7 @@ export default function Watchlist() {
                 <a href="https://crowdrecords.com/" target="_blank" rel="noopener noreferrer">Crowd Records</a> - Decentralized economy for creating music
             </div>
             <div className={styles.gcard}>
-                <a href="https://dab.ooo/" target="_blank" rel="noopener noreferrer">DAB</a> - An open internet service for interface-agnostic user profiles and data, token and NFT registries and verification, and more!
+                <a href="https://www.crowdeats.io/" target="_blank" rel="noopener noreferrer">CrowdEats</a> - Restaurant review dapp with social and reward components
             </div>
             <div className={styles.gcard}>
                 <a href="https://deckdeckgo.com/en/" target="_blank" rel="noopener noreferrer">DeckDeckGo</a> - Presentations on the Internet Computer
