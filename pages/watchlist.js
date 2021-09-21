@@ -34,6 +34,9 @@ export default function Watchlist() {
                 <a href="https://capsule.social/" target="_blank" rel="noopener noreferrer">Capsule Social</a> - Decentralized social media
             </div>
             <div className={styles.gcard}>
+                <a href="https://www.cipherproxy.com/" target="_blank" rel="noopener noreferrer">CipherProxy</a> - An Open Data Marketplace on the Internet Computer
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://www.civol.co/" target="_blank" rel="noopener noreferrer">Civol</a> - Asynchronous video conversation platform enabling decentralized discourse, debate, and collective decision-making
             </div>
             <div className={styles.gcard}>
@@ -88,6 +91,9 @@ export default function Watchlist() {
                 <a href="https://www.icproject.org/" target="_blank" rel="noopener noreferrer">Infinite Charity Project</a> - A nonprofit charitable org conducting $ICP NFT fundraisers to benefit 501(c)3 charities
             </div>
             <div className={styles.gcard}>
+                <a href="https://interastrosc.com/" target="_blank" rel="noopener noreferrer">Internet Astronauts</a> - A collection of 10,000 unique digital NFT collectibles only found on the Internet Computer
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://modclub.app/" target="_blank" rel="noopener noreferrer">ModClub</a> - Decentralized user generated content moderation service, to integrate with existing Internet Computer dapps
             </div>
             <div className={styles.gcard}>
@@ -102,9 +108,9 @@ export default function Watchlist() {
             <div className={styles.gcard}>
                 <a href="https://overchute.com/" target="_blank" rel="noopener noreferrer">Overchute</a> - Decentralized smart-contract application for crowdfunding the release of intellectual property 
             </div>
-            <div className={styles.gcard}>
+            {/* <div className={styles.gcard}>
                 <a href="https://ja7sy-daaaa-aaaai-qaguq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Portal</a> - Decentralized live streaming service
-            </div>
+            </div> */}
             <div className={styles.gcard}>
                 <a href="https://theswordnft.com/" target="_blank" rel="noopener noreferrer">The Sword</a> - 10K Unique Ninjas NFTs
             </div>
