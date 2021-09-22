@@ -52,10 +52,16 @@ export default function Games() {
                 <a href="https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">HexGL</a> - A futuristic, fast-paced racing game built by BKcore
             </div>
             <div className={styles.gcard}>
+                <a href="https://icmojis.com/" target="_blank" rel="noopener noreferrer">ICmoji Origins</a> - On-chain NFT strategy game
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://hl2zz-gyaaa-aaaad-qas3a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Lo-Fi Player</a> - A virtual room in your browser that lets you play with the BEAT
             </div>
             <div className={styles.gcard}>
                 <a href="https://makqn-piaaa-aaaah-qadvq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Mareo</a> - Clone of the classic Mario platformer
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://t6ury-eiaaa-aaaaj-qabgq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Metascore</a> - Leaderboards and prizes for the DSCVR Season 2 Gaming Hackathon
             </div>
             <div className={styles.gcard}>
                 <a href="https://cieun-eiaaa-aaaad-qak6a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Motoko Runner</a> - Endless runner game
