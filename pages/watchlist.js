@@ -25,6 +25,9 @@ export default function Watchlist() {
                 <a href="https://aizxe-qaaaa-aaaah-aapya-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">AstroX</a> - Dart developer tools and “mini apps” framework
             </div>
             <div className={styles.gcard}>
+                <a href="https://vzaga-2aaaa-aaaaf-qaaxq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Bunchd</a> - Create, collaborate, and earn on the subscription platform controlled by creators
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://bv7wf-6qaaa-aaaai-qahbq-cai.raw.ic0.app/sign-up" target="_blank" rel="noopener noreferrer">CanCan</a> - A scalable video sharing service
             </div>
             <div className={styles.gcard}>
@@ -41,6 +44,9 @@ export default function Watchlist() {
             </div>
             <div className={styles.gcard}>
                 <a href="https://grwwk-gaaaa-aaaah-aapma-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Content Fly</a> - Content marketplace connecting high-quality creators with brands
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://sdnoa-fiaaa-aaaah-aaubq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Crowd Creative Collections</a> - Open and autonomous organization dedicated to building a decentralized artistic creation organization
             </div>
             <div className={styles.gcard}>
                 <a href="https://crowdrecords.com/" target="_blank" rel="noopener noreferrer">Crowd Records</a> - Decentralized economy for creating music
