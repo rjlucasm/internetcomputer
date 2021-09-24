@@ -43,6 +43,9 @@ export default function Games() {
                 <a href="https://cycles.bet/" target="_blank" rel="noopener noreferrer">Cycles Bet</a> - Bet cycles play dices
             </div>
             <div className={styles.gcard}>
+                <a href="https://2kvgp-zyaaa-aaaai-aappq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DOTS ...</a> - On-chain classic snake game
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://bjv3y-niaaa-aaaah-aadsq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Fly Aves</a> - Flappy Bird style game
             </div>
             <div className={styles.gcard}>
@@ -107,6 +110,9 @@ export default function Games() {
             </div>
             <div className={styles.gcard}>
                 <a href="https://qwbig-wiaaa-aaaad-qaobq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">The Angler</a> - Fish hunting game
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://6jgp5-riaaa-aaaai-aapuq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Tiny Racing</a> - Racing game made with Unity
             </div>
             <div className={styles.gcard}>
                 <a href="https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Welcome into the Metaverse!</a> - Explore the Internet Computer and its community
