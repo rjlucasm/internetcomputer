@@ -67,6 +67,9 @@ export default function Games() {
                 <a href="https://t6ury-eiaaa-aaaaj-qabgq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Metascore</a> - Leaderboards and prizes for the DSCVR Season 2 Gaming Hackathon
             </div>
             <div className={styles.gcard}>
+                <a href="https://to3ja-iyaaa-aaaai-qapsq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Mission is Possible</a> - 3D shooter game
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://cieun-eiaaa-aaaad-qak6a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Motoko Runner</a> - Endless runner game
             </div>
             <div className={styles.gcard}>
