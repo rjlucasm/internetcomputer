@@ -7,6 +7,7 @@ const Sites = () => (
        <div className={styles.card}>
          <h4>Websites</h4> 
          <p><a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">ICA</a></p>
+         <p><a href="https://smartcontracts.org/" target="_blank" rel="noopener noreferrer">SDK</a></p>
          <p><a href="https://dfinity.org/" target="_blank" rel="noopener noreferrer">Dfinity</a></p>
          <p><a href="https://thereboot.com/" target="_blank" rel="noopener noreferrer">The Reboot</a></p>
          <p><a href="https://medium.com/dfinity" target="_blank" rel="noopener noreferrer">Medium</a></p>
