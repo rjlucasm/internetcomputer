@@ -91,6 +91,9 @@ export default function Watchlist() {
                 <a href="https://www.icpmeet.com/" target="_blank" rel="noopener noreferrer">ICPmeet</a> - A Tinder on Internet Computer
             </div>
             <div className={styles.gcard}>
+                <a href="https://icpswap.com/" target="_blank" rel="noopener noreferrer">ICPSwap</a> - The Hub of Future Decentralized Finance
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://icpuppies.io/" target="_blank" rel="noopener noreferrer">ICPuppies</a> - The first animal NFT collection deployed on the Internet Computer
             </div>
             <div className={styles.gcard}>
@@ -113,6 +116,9 @@ export default function Watchlist() {
             </div>
             <div className={styles.gcard}>
                 <a href="https://fxnaj-yaaaa-aaaaf-qad3q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Nuance</a> - Decentralized blogging platform
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://www.origyn.ch/" target="_blank" rel="noopener noreferrer">Origyn</a> - Blending luxury goods, with NFTs by providing digital verifications for physical objects
             </div>
             <div className={styles.gcard}>
                 <a href="https://overchute.com/" target="_blank" rel="noopener noreferrer">Overchute</a> - Decentralized smart-contract application for crowdfunding the release of intellectual property 
