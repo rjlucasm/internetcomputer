@@ -28,7 +28,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <div className={styles.highlights}>
-          <a href="https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/post/139111/dscvr-hackathon-season-2-the-integrated-game" target="_blank" rel="noopener noreferrer">DSCVR Hackathon Season 2! $45k USD Equivalent Prize Pool!</a>
+          <a href="https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/post/629405/official-poll-dscvr-hackathon-season-2-the-integ" target="_blank" rel="noopener noreferrer">Go Vote For Your Favorite DSCVR Hackathon Season 2 Game!</a>
         </div>
         
         <h2 className={styles.title}>Internet Computer Today</h2>
