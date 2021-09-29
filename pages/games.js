@@ -37,6 +37,9 @@ export default function Games() {
                 <a href="https://2ji5m-raaaa-aaaah-aanoa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Coinflip</a> - Guess the coin toss
             </div>
             <div className={styles.gcard}>
+                <a href="https://cosmicrafts.com/" target="_blank" rel="noopener noreferrer">Cosmicrafts</a> - Multiplatform RTS game on the Internet Computer
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://7qx3n-ziaaa-aaaad-qaqca-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">CubeRun</a> - Avoid cubes while the spaceship you control gradually goes faster and faster
             </div>
             <div className={styles.gcard}>
