@@ -100,6 +100,9 @@ export default function Watchlist() {
                 <a href="https://www.icproject.org/" target="_blank" rel="noopener noreferrer">Infinite Charity Project</a> - A nonprofit charitable org conducting $ICP NFT fundraisers to benefit 501(c)3 charities
             </div>
             <div className={styles.gcard}>
+                <a href="https://infinityfrogs.com/" target="_blank" rel="noopener noreferrer">Infinity Frogs</a> - First NFT to bridge ETH and ICP
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://infinityswap.one/" target="_blank" rel="noopener noreferrer">Infinity Swap</a> - A platform to create, stake and swap Dfinity tokens
             </div>
             <div className={styles.gcard}>
