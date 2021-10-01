@@ -109,6 +109,9 @@ export default function Watchlist() {
                 <a href="https://interastrosc.com/" target="_blank" rel="noopener noreferrer">Internet Astronauts</a> - A collection of 10,000 unique digital NFT collectibles only found on the Internet Computer
             </div>
             <div className={styles.gcard}>
+                <a href="https://learnd.dedn.eu/" target="_blank" rel="noopener noreferrer">LEARND</a> - Community driven educationnal platform running on Internet Computer
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://modclub.app/" target="_blank" rel="noopener noreferrer">ModClub</a> - Decentralized user generated content moderation service, to integrate with existing Internet Computer dapps
             </div>
             <div className={styles.gcard}>
