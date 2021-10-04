@@ -97,6 +97,9 @@ export default function Watchlist() {
                 <a href="https://icpuppies.io/" target="_blank" rel="noopener noreferrer">ICPuppies</a> - The first animal NFT collection deployed on the Internet Computer
             </div>
             <div className={styles.gcard}>
+                <a href="http://icwallet.org/" target="_blank" rel="noopener noreferrer">ICWallet</a> - Your gateway to Dfinity ecosystem
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://www.icproject.org/" target="_blank" rel="noopener noreferrer">Infinite Charity Project</a> - A nonprofit charitable org conducting $ICP NFT fundraisers to benefit 501(c)3 charities
             </div>
             <div className={styles.gcard}>
@@ -137,6 +140,9 @@ export default function Watchlist() {
             </div>
             <div className={styles.gcard}>
                 <a href="https://voicemarkr.com/shell/map" target="_blank" rel="noopener noreferrer">VoiceMarkr</a> - P2P voice on the Internet Computer
+            </div>
+            <div className={styles.gcard}>
+                <a href="https://waterslide.app/" target="_blank" rel="noopener noreferrer">Waterslide</a> - Frontend to interact with the Liquity Protocol. Powered by Dfinity
             </div>
             <div className={styles.gcard}>
                 <a href="https://www.weact.chat/" target="_blank" rel="noopener noreferrer">WeAct</a> - All in one collaboration app designed by activists for activists
