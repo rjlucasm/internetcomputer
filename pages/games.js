@@ -49,6 +49,9 @@ export default function Games() {
                 <a href="https://2kvgp-zyaaa-aaaai-aappq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DOTS ...</a> - On-chain classic snake game
             </div>
             <div className={styles.gcard}>
+                <a href="https://avpoh-raaaa-aaaad-qavua-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">EZCraft</a> - Simple remake of the classic Minecraft game
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://bjv3y-niaaa-aaaah-aadsq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Fly Aves</a> - Flappy Bird style game
             </div>
             <div className={styles.gcard}>
