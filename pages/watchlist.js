@@ -115,6 +115,9 @@ export default function Watchlist() {
                 <a href="https://learnd.dedn.eu/" target="_blank" rel="noopener noreferrer">LEARND</a> - Community driven educational platform running on Internet Computer
             </div>
             <div className={styles.gcard}>
+                <a href="https://memecake.io/" target="_blank" rel="noopener noreferrer">Meme Cake</a> - Decentralized comedy platform
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://modclub.app/" target="_blank" rel="noopener noreferrer">ModClub</a> - Decentralized user generated content moderation service, to integrate with existing Internet Computer dapps
             </div>
             <div className={styles.gcard}>
