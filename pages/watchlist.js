@@ -67,6 +67,9 @@ export default function Watchlist() {
                 <a href="https://dfinance.ai/" target="_blank" rel="noopener noreferrer">DFinance</a> - Foundational DeFi components for the Internet Computer
             </div>
             <div className={styles.gcard}>
+                <a href="https://qafww-dyaaa-aaaaj-qabpq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DMail</a> - The first blockchain mailbox product
+            </div>
+            <div className={styles.gcard}>
                 <a href="https://getimpactnow.org/" target="_blank" rel="noopener noreferrer">Get Impact Now</a> - Digital platform that enables responsible citizens to be a part of the decision-making process
             </div>
             <div className={styles.gcard}>
