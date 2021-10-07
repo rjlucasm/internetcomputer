@@ -82,7 +82,7 @@ const Sites = () => (
       </div>
 
       <div className={styles.card}>
-         <h4>NFT</h4>
+         <Link href="/nft"><a><h4>NFTs</h4></a></Link>
          <p><a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a></p>
          <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
          <p><a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a></p>
